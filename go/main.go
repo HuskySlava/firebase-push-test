@@ -85,7 +85,7 @@ func sendTestPushes(cfg *TestConfig) {
 }
 
 func main() {
-	cfg, err := loadConfig[TestConfig]("test-config.json")
+	cfg, err := loadConfig[TestConfig]("push-config.json")
 	if err != nil {
 		log.Println("Failed to load test config", err)
 		return
