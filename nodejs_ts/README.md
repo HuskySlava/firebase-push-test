@@ -2,6 +2,8 @@
 
 Simple Node.js TypeScript tool for sending test Firebase Cloud Messaging notifications using a Service Account.
 
+> Note: Note: No Compile Required This tool runs TypeScript natively. It does not require a build step (tsc) or a third-party loader (ts-node). It utilizes the modern Node.js runtime (v22.6+) to execute .ts files directly.
+
 #### Prerequisites
 * Node.js (v22 or higher)
 * npm
