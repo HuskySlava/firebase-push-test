@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_js",
+  "version": "1.0.0",
+  "description": "NodeJs FCM push notification tester",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=22.19.0",
+    "npm": ">=10.9.3"
+  },
+  "author": "Slava Mihaelov",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "firebase-admin": "^13.6.0"
+  }
+}
