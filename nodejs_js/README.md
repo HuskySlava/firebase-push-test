@@ -9,14 +9,17 @@ Simple Node.js javascript tool for sending test Firebase Cloud Messaging notific
 
 ### Installation 
  * Install the required dependency:
+
 ```bash
 npm install
- * ```
+ ```
 
 ### Configuration
 You need two files in the root directory 
 * Service Account JSON 
 * Configuration JSON file, example:
+
+
 ```json
 {
     "serviceAccountName": "example-service-account.json",
