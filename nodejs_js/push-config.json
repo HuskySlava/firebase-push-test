@@ -1,0 +1,15 @@
+{
+    "serviceAccountName": "example-service-account.json",
+    "tests": [
+        {
+            "fcmToken": "xxx",
+            "title": "Test Title",
+            "body": "Test Message"
+        },
+        {
+            "fcmToken": "yyy",
+            "title": "Test Title",
+            "body": "Test Message"
+        }
+    ]
+}
