@@ -25,7 +25,7 @@ Create a `test-config.json` file in the binary's directory or your working direc
   ]
 }
 ```
-* serviceAccountName: Path to your Firebase private key file.
+* serviceAccountName: Name of your Firebase private key file (Should be placed in the bin folder).
 * FCMToken: Target device registration token.
 
 ## Build & Run
