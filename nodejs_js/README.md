@@ -12,7 +12,7 @@ Simple Node.js javascript tool for sending test Firebase Cloud Messaging notific
 
 ```bash
 npm install
- ```
+```
 
 ### Configuration
 You need two files in the root directory 
