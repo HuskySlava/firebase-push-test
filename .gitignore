@@ -1,0 +1,14 @@
+## IDE
+**/*.idea
+
+## Service Accounts
+**/*.json
+
+## Binaries
+**/bin/*
+
+## Allow config
+!**/push-config.json
+
+## Allow examples
+!**/example-service.account.json
